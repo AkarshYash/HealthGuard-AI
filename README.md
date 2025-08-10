@@ -129,11 +129,12 @@ PyMuPDF
 
 ## 📸 Screenshots
 
-![Home]![WhatsApp Image 2025-08-10 at 09 48 59_805e18c0](https://github.com/user-attachments/assets/dec96893-2514-40a4-8a59-20fbc29cae63)
+Home ![WhatsApp Image 2025-08-10 at 09 48 59_805e18c0](https://github.com/user-attachments/assets/dec96893-2514-40a4-8a59-20fbc29cae63)
 
-![Chat] ![WhatsApp Image 2025-08-10 at 09 54 46_6416a6f0](https://github.com/user-attachments/assets/3badc3d8-864c-4b95-82d7-a52bd0683729)
+Chat ![WhatsApp Image 2025-08-10 at 09 54 46_6416a6f0](https://github.com/user-attachments/assets/3badc3d8-864c-4b95-82d7-a52bd0683729)
 
-![Prediction]
+Prediction
+![WhatsApp Image 2025-08-10 at 09 52 11_deba6bb8](https://github.com/user-attachments/assets/13355e82-6432-4a69-ace4-55294a88f5cd)
 
 https://github.com/user-attachments/assets/2534c782-339d-45d1-b8d1-421e55fb37d7
 
@@ -145,4 +146,4 @@ https://github.com/user-attachments/assets/2534c782-339d-45d1-b8d1-421e55fb37d7
 
 MIT License
 
-Kalki — Cybersecurity Expert & Developer
+Akarsh Chaturvedi  — Cybersecurity Expert & Developer
