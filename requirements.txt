@@ -1,0 +1,14 @@
+streamlit
+pandas
+scikit-learn
+python-dotenv
+google-generativeai
+streamlit
+google-generativeai
+pymupdf
+pandas
+numpy
+python-dotenv
+scikit-learn
+huggingface_hub
+transformers
