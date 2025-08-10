@@ -1,3 +1,4 @@
+
 <div align="center">
   <h1 style="background-color:#ff4d4d;color:white;padding:10px;border-radius:8px;">🚑 HealthGuard AI</h1>
 </div>
@@ -13,7 +14,7 @@
 HealthGuard AI is a Streamlit-based health assistant that combines:
 
 * **Machine Learning (Random Forest)** for diabetes risk prediction.
-* **LLM-powered chat** (Google Gemini + Hugging Face fallback) for health Q\&A.
+* **LLM-powered chat** (Google Gemini + Hugging Face fallback) for health Q&A.
 * **PDF parsing** to extract and analyze medical reports.
 * **Downloadable health reports** with chat history and risk predictions.
 * **Custom UI themes** for a polished experience.
@@ -34,7 +35,6 @@ HealthGuard AI is a Streamlit-based health assistant that combines:
 
 * **ML Model:** `RandomForestClassifier` (scikit-learn)
 * **LLMs:**
-
   * Primary: Google Gemini (`google-generativeai`)
   * Fallback: Hugging Face GPT-2 (`transformers`)
 * **PDF Parsing:** PyMuPDF (`fitz`)
@@ -63,7 +63,7 @@ python -m venv venv
 venv\Scripts\activate  # Windows
 source venv/bin/activate  # Mac/Linux
 pip install -r requirements.txt
-```
+````
 
 **Create `.env` file:**
 
@@ -129,16 +129,16 @@ PyMuPDF
 
 ## 📸 Screenshots
 
-Home ![WhatsApp Image 2025-08-10 at 09 48 59_805e18c0](https://github.com/user-attachments/assets/dec96893-2514-40a4-8a59-20fbc29cae63)
+Home
+![WhatsApp Image 2025-08-10 at 09 48 59\_805e18c0](https://github.com/user-attachments/assets/dec96893-2514-40a4-8a59-20fbc29cae63)
 
-Chat ![WhatsApp Image 2025-08-10 at 09 54 46_6416a6f0](https://github.com/user-attachments/assets/3badc3d8-864c-4b95-82d7-a52bd0683729)
+Chat
+![WhatsApp Image 2025-08-10 at 09 54 46\_6416a6f0](https://github.com/user-attachments/assets/3badc3d8-864c-4b95-82d7-a52bd0683729)
 
 Prediction
-![WhatsApp Image 2025-08-10 at 09 52 11_deba6bb8](https://github.com/user-attachments/assets/13355e82-6432-4a69-ace4-55294a88f5cd)
+![WhatsApp Image 2025-08-10 at 09 52 11\_deba6bb8](https://github.com/user-attachments/assets/13355e82-6432-4a69-ace4-55294a88f5cd)
 
-https://github.com/user-attachments/assets/2534c782-339d-45d1-b8d1-421e55fb37d7
-
-
+[https://github.com/user-attachments/assets/2534c782-339d-45d1-b8d1-421e55fb37d7](https://github.com/user-attachments/assets/2534c782-339d-45d1-b8d1-421e55fb37d7)
 
 ---
 
@@ -146,4 +146,7 @@ https://github.com/user-attachments/assets/2534c782-339d-45d1-b8d1-421e55fb37d7
 
 MIT License
 
-Akarsh Chaturvedi  — Cybersecurity Expert & Developer
+**Akarsh Chaturvedi** — Cyber Security & Developer
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/akarsh-chaturvedi-259271236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBrGww08AQLqtNgnrNvLPDg%3D%3D)
+
+
