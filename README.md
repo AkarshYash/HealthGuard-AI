@@ -129,9 +129,15 @@ PyMuPDF
 
 ## 📸 Screenshots
 
-![Home](assets/screenshot-home.png)
-![Chat](assets/screenshot-chat.png)
-![Prediction](assets/screenshot-predict.png)
+![Home]![WhatsApp Image 2025-08-10 at 09 48 59_805e18c0](https://github.com/user-attachments/assets/dec96893-2514-40a4-8a59-20fbc29cae63)
+
+![Chat] ![WhatsApp Image 2025-08-10 at 09 54 46_6416a6f0](https://github.com/user-attachments/assets/3badc3d8-864c-4b95-82d7-a52bd0683729)
+
+![Prediction]
+
+https://github.com/user-attachments/assets/2534c782-339d-45d1-b8d1-421e55fb37d7
+
+
 
 ---
 
